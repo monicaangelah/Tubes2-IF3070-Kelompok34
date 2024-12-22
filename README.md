@@ -27,7 +27,7 @@ cd src
 ### Kelompok 34 - bjirbjrot
 | NIM | Nama | Tugas |
 |:-----------:|:------------:|:------------:|
-| 18222026 | Tamara Mayranda Lubis | Text |
-| 18222074 | Kayla Dyara | Text |
-| 18222028 | Monica Angela Hartono | Text |
-| 18222094 | Yovanka Sandrina Maharaja | Text |
+| 18222026 | Tamara Mayranda Lubis | Preprocessing, Laporan |
+| 18222074 | Kayla Dyara | Model KNN, Laporan |
+| 18222028 | Monica Angela Hartono | Model Naive-Bayes, Laporan |
+| 18222094 | Yovanka Sandrina Maharaja | Cleaning, Laporan |
