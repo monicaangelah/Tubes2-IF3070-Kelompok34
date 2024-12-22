@@ -29,5 +29,5 @@ cd src
 |:-----------:|:------------:|:------------:|
 | 18222026 | Tamara Mayranda Lubis | Preprocessing, Laporan |
 | 18222074 | Kayla Dyara | Model KNN, Laporan |
-| 18222028 | Monica Angela Hartono | Model Naive-Bayes, Laporan |
+| 18222078 | Monica Angela Hartono | Model Naive-Bayes, Laporan |
 | 18222094 | Yovanka Sandrina Maharaja | Cleaning, Laporan |
